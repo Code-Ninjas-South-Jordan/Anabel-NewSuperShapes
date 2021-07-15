@@ -1193,3 +1193,34 @@ Received Import Request.
 Start importing Assets/Prefabs/Triangle 1.prefab using Guid(7b78f5797360d40219f339ab21568a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8bacff646f37a5481f1fc485b2a55ba') in 0.084050 seconds
   Import took 0.089095 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 115.945376 seconds.
+  path: Assets/Prefabs/Triangle 1.prefab
+  artifactKey: Guid(7b78f5797360d40219f339ab21568a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Triangle 1.prefab using Guid(7b78f5797360d40219f339ab21568a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1963911fdb69d8a63e780335697b017') in 0.031590 seconds
+  Import took 0.035961 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000949 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.991 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1831 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.5 MB.
+System memory in use after: 188.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2431.
+Total: 2.257656 ms (FindLiveObjects: 0.267654 ms CreateObjectMapping: 0.104601 ms MarkObjects: 1.811546 ms  DeleteObjects: 0.072101 ms)
+
