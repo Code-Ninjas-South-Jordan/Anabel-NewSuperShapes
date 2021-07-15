@@ -1,0 +1,79 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.3f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/codeninjas4/Desktop/Anabel-NewSuperShapes/Anabel-SuperShapes
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63839
+Successfully changed project path to: /Users/codeninjas4/Desktop/Anabel-NewSuperShapes/Anabel-SuperShapes
+/Users/codeninjas4/Desktop/Anabel-NewSuperShapes/Anabel-SuperShapes
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/codeninjas4/Desktop/Anabel-NewSuperShapes/Anabel-SuperShapes/Assets
+GfxDevice: creating device client; threaded=0
+2021-07-15 16:12:38.797 Unity[85438:15811401] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-07-15 16:12:38.797 Unity[85438:15811401] Metal devices available: 1
+2021-07-15 16:12:38.797 Unity[85438:15811401] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-07-15 16:12:38.798 Unity[85438:15811401] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56438
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001410 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 50.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.799 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001304 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 89.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.824 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1888 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.8 MB.
+System memory in use after: 169.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2349.
+Total: 5.269328 ms (FindLiveObjects: 0.607945 ms CreateObjectMapping: 0.168941 ms MarkObjects: 4.351142 ms  DeleteObjects: 0.138842 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts
+  artifactKey: Guid(fa794f61967a9124084db6161f32d0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(fa794f61967a9124084db6161f32d0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845f619551d9430ed76a38c58e868b2f') in 0.006417 seconds
+  Import took 0.011908 seconds .
+
